@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Books\5th Semester\Microcontroller Project\Practice.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Books\5th Semester\Microcontroller Project\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Practice.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_EEPROM.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Practice.c
+diagnostics: 76	123	Compiled Successfully	Practice.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 19 (5%)  Free RAM (bytes): 333 (95%)	Used RAM (bytes): 19 (5%)  Free RAM (bytes): 333 (95%)
+hint: 0	1144	Used ROM (program words): 324 (4%)  Free ROM (program words): 7868 (96%)	Used ROM (program words): 324 (4%)  Free ROM (program words): 7868 (96%)
+diagnostics: 0	125	Project Linked Successfully	Practice.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'Practice.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 06 Nov 2023, 14:42:34	Practice.mcppi

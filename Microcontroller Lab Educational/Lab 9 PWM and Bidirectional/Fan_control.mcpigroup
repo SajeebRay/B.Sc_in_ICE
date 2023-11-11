@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=two_digit_seven_seg.mcppi
+Project1=Fan_control.mcppi
+[ActiveProject]
+Index=1

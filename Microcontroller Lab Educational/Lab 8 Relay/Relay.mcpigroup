@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=Seven_seg_button.mcppi
+Project1=two_digit_seven_seg.mcppi
+Project2=Relay.mcppi
+[ActiveProject]
+Index=2

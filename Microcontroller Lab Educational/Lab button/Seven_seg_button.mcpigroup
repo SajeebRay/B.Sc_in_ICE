@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EasyPIC v8\Led Blinking\LedBlinking.mcppi
+Project1=LED_blink.mcppi
+Project2=Seven_seg.mcppi
+Project3=Seven_seg_button.mcppi
+[ActiveProject]
+Index=3

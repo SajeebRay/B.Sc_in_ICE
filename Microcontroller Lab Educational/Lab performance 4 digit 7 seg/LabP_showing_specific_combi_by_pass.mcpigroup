@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=two_digit_seven_seg.mcppi
+Project1=LabP_showing_specific_combi_by_pass.mcppi
+[ActiveProject]
+Index=1

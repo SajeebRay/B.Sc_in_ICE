@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Books\5th Semester\ICE-3108\two_digit_seven_seg.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Books\5th Semester\ICE-3108\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "two_digit_seven_seg.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Time.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+error: 41	304	 error: Can't open include file "pic16f877a.h"     #include <pic16f877a.h> 1 error in preprocessor.	D:\Books\5th Semester\ICE-3108\two_digit_seven_seg.c
+diagnostics: 0	122	Compilation Started	two_digit_seven_seg.c
+error: 54	324	Undeclared identifier 'OPTION_REGbits' in expression	two_digit_seven_seg.c
+error: 55	324	Undeclared identifier 'OPTION_REGbits' in expression	two_digit_seven_seg.c
+error: 56	324	Undeclared identifier 'OPTION_REGbits' in expression	two_digit_seven_seg.c
+error: 56	317	Operator '.' is not applicable to these operands ''	two_digit_seven_seg.c
+error: 89	315	Invalid expression	two_digit_seven_seg.c
+error: 86	402	; expected, but 'unsigned' found	two_digit_seven_seg.c
+error: 89	424	'}' expected ';' found	two_digit_seven_seg.c
+error: 92	424	'}' expected '}' found	two_digit_seven_seg.c
+error: 0	102	Finished (with errors): 09 Aug 2023, 14:58:26	two_digit_seven_seg.mcppi

@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\Eject Circuit\bagCountEject.mcppi
+Project1=Servo.mcppi
+Project2=Stepper_motor.mcppi
+[ActiveProject]
+Index=2

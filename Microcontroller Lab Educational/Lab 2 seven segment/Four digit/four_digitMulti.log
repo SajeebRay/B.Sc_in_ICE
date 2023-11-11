@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Books\5th Semester\Microcontroller Project\Lab 2 seven segment\four_digitMulti.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Books\5th Semester\Microcontroller Project\Lab 2 seven segment\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "four_digitMulti.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	four_digitMulti.c
+diagnostics: 62	123	Compiled Successfully	four_digitMulti.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 20 (6%)  Free RAM (bytes): 332 (94%)	Used RAM (bytes): 20 (6%)  Free RAM (bytes): 332 (94%)
+hint: 0	1144	Used ROM (program words): 239 (3%)  Free ROM (program words): 7953 (97%)	Used ROM (program words): 239 (3%)  Free ROM (program words): 7953 (97%)
+diagnostics: 0	125	Project Linked Successfully	four_digitMulti.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'four_digitMulti.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 06 Nov 2023, 21:48:39	four_digitMulti.mcppi

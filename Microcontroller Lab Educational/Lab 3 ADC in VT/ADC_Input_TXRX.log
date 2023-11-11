@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Books\5th Semester\ICE-3107 Computer Architecture Microcontroller Design\ADC_Input_TXRX.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Books\5th Semester\ICE-3107 Computer Architecture Microcontroller Design\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "ADC_Input_TXRX.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	ADC_Input_TXRX.c
+warning: 4	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	ADC_Input_TXRX.c
+diagnostics: 24	123	Compiled Successfully	ADC_Input_TXRX.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 63 (18%)  Free RAM (bytes): 289 (82%)	Used RAM (bytes): 63 (18%)  Free RAM (bytes): 289 (82%)
+hint: 0	1144	Used ROM (program words): 456 (6%)  Free ROM (program words): 7736 (94%)	Used ROM (program words): 456 (6%)  Free ROM (program words): 7736 (94%)
+diagnostics: 0	125	Project Linked Successfully	ADC_Input_TXRX.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'ADC_Input_TXRX.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 17 Aug 2023, 10:25:36	ADC_Input_TXRX.mcppi

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab-06</title>
+</head>
+<body>
+    <div id="output" style="font-family: 'Times New Roman', Times, serif; color: rgb(146, 3, 255)">The result is: <br></div>
+    <script>
+        // Get the HTML element where we want to display the output
+        var outputElement = document.getElementById("output");
+
+        // Loop from 0 to 30
+        for (var i = 0; i <= 30; i++) {
+            if (i % 2 === 0) {
+                // Even number
+                outputElement.innerHTML += i + " is even. ";
+            } else {
+                // Odd number
+                outputElement.innerHTML += i + " is odd. ";
+            }
+        }
+    </script>
+</body>
+</html>

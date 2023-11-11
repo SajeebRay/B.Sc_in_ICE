@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"D:\Books\5th Semester\Microcontroller Project\Lab 6 Dot matrix\Dot_matrix_display.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Books\5th Semester\Microcontroller Project\Lab 6 Dot matrix\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Dot_matrix_display.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Dot_matrix_display.c
+diagnostics: 38	123	Compiled Successfully	Dot_matrix_display.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 117 (1%)  Free ROM (program words): 8075 (99%)	Used ROM (program words): 117 (1%)  Free ROM (program words): 8075 (99%)
+diagnostics: 0	125	Project Linked Successfully	Dot_matrix_display.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Dot_matrix_display.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 01 Nov 2023, 12:32:13	Dot_matrix_display.mcppi
